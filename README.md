@@ -6,4 +6,4 @@
 
 # GIF
 
-<img src="Scssproject.gif"/>
+<img src="scssproject.gif"/>
