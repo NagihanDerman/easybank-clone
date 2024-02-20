@@ -1,6 +1,8 @@
 ## Easy Bank Clone
 
-Html, css, scss/sass
+- Html, css, scss/sass
+
+- Responsive 
 
 # GIF
 
