@@ -1,9 +1,16 @@
-## Projet Easybank
+### Bank Page Design
 
-Il s'agit d'un projet de banque numérique. Easybank permet aux utilisateurs de gérer leur vie financière en ligne. Ci-dessous, vous trouverez des informations détaillées sur les technologies utilisées dans le projet ainsi que sur le projet lui-même.
+This project involves designing page for a bank using HTML and SCSS. The design ensures a responsive layout suitable for various devices and screen sizes.
 
-- Conçu en utilisant les technologies HTML et SCSS.
-- Design Réactif : Implémentation des principes de design réactif pour assurer l'adaptabilité à différentes tailles d'écran.
+### Features
+
+- Responsive Design: The layout adapts to different screen sizes and devices for optimal user experience.
+- Styled with SCSS: Utilizes SCSS for advanced styling and design flexibility.
+
+### Technologies Used
+
+- HTML: Markup language for structuring the web page.
+- SCSS: A CSS preprocessor used for more powerful and maintainable styles..
 
 # GIF
 
