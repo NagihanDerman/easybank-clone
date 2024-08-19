@@ -14,4 +14,4 @@ This project involves designing page for a bank using HTML and SCSS. The design 
 
 # GIF
 
-<img src="scss.gif"/>
+<img src="./images/scss.gif"/>
